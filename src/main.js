@@ -9,7 +9,7 @@ import '@/assets/iconfont/iconfont.css'
 
 Vue.use(animated)
 Vue.config.productionTip = false
-
+/**测试分支使用 */
 new Vue({
   router,
   store,
