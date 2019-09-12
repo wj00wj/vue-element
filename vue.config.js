@@ -46,7 +46,7 @@ module.exports = {
   outputDir: 'dist',
   assetsDir: 'static',
   lintOnSave: true, // 是否开启eslint保存检测
-  productionSourceMap: false, // 是否在构建生产包时生成sourcdeMap
+  productionSourceMap: true, // 是否在构建生产包时生成sourcdeMap
   chainWebpack: config => {
     config.resolve.alias
       .set('@', resolve('src'))
