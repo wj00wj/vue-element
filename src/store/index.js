@@ -1,13 +1,3 @@
-// import Vue from 'vue'
-// import Vuex from 'vuex'
-// import user from './modules/user'
-// Vue.use(Vuex)
-
-// export default new Vuex.Store({
-//   modules:{
-//     user
-//   }
-// })
 import Vue from 'vue'
 import Vuex from 'vuex'
 import getters from './getters'
@@ -15,10 +5,10 @@ const path = require('path')
 
 Vue.use(Vuex)
 
-const files = require.context('./modules',false,/\.js$/)
+const files = require.context('./modules', false, /\.js$/)
 let modules = {}
 files.keys().forEach(key => {
-  let name = path.basename(key,'.js')
+  let name = path.basename(key, '.js')
   modules[name] = files(key).default || files(key)
 })
 const store = new Vuex.Store({

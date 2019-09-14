@@ -9,7 +9,7 @@
             </div>
             <el-dropdown-menu solt="dropdown">
                 <el-dropdown-item>
-                    <router-link to="/"><i class="el-icon-s-home"></i首页router-link>
+                    <router-link to="/"><i class="el-icon-s-home"></i>首页</router-link>
                 </el-dropdown-item>
                 <el-dropdown-item>
                     <router-link to="/personal"><i class="el-icon-s-custom"></i>我的主页</router-link>
