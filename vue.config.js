@@ -2,6 +2,12 @@
 // const port = 7070;
 // const title = 'vue-admin-webapp'
 
+//master上修改--------
+//上修改------
+//-------g
+//只是在git上做了修改
+//只是在本地做了修改
+
 // function resolve(dir){
 //     //拼接当前文件所在目录和dir
 //     return path.join(__dirname,dir)
@@ -46,7 +52,7 @@ module.exports = {
   outputDir: 'dist',
   assetsDir: 'static',
   lintOnSave: true, // 是否开启eslint保存检测
-  productionSourceMap: false, // 是否在构建生产包时生成sourcdeMap
+  productionSourceMap: true, // 是否在构建生产包时生成sourcdeMap
   chainWebpack: config => {
     config.resolve.alias
       .set('@', resolve('src'))
