@@ -6,7 +6,7 @@
 //     //拼接当前文件所在目录和dir
 //     return path.join(__dirname,dir)
 // }
-
+//center上的分支
 // module.exports = {
 //     devServer:{
 //         port:port
