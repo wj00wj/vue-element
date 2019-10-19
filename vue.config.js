@@ -3,7 +3,7 @@
 // const title = 'vue-admin-webapp'
 
 //master上修改--------
-//github------
+//-------github.com上修改------
 
 // function resolve(dir){
 //     //拼接当前文件所在目录和dir
