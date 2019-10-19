@@ -1,0 +1,251 @@
+[33mcommit 3787b222a7a2e7d17a6bcd800a54e7e8f91483b2[m[33m ([m[1;36mHEAD -> [m[1;32mcenter[m[33m, [m[1;31morigin/center[m[33m)[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 12:32:42 2019 +0800
+
+    可变的更白
+
+[33mcommit 11901bff39be1854b7f0e0257b232d6fb2dc2b42[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 12:31:13 2019 +0800
+
+    1
+
+[33mcommit aa8cea56168e1f16033d79ec997a20b4dc78c17f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 12:15:57 2019 +0800
+
+    添加代码
+
+[33mcommit 273791519b11e193875dd488a524dde778a842c4[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 12:14:15 2019 +0800
+
+    2
+
+[33mcommit c6124330e786028a56301a9dbdb5e21a5d3855f4[m
+Merge: d241c8f 5408cea
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 12:13:13 2019 +0800
+
+    center合并到master后的代码
+
+[33mcommit 5408cea3acf91077cc04387fd45ea11ccc9ed1da[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 12:06:19 2019 +0800
+
+    2
+
+[33mcommit dacdecf47b66b56f22891b39cbb23ef164474710[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 12:06:12 2019 +0800
+
+    1
+
+[33mcommit d241c8f65a27a76f85c21ef47f65747ef929e5af[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 12:05:04 2019 +0800
+
+    2
+
+[33mcommit 9a29a5156ff0936b66de7347eebf2855326b3fcb[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 12:04:58 2019 +0800
+
+    1
+
+[33mcommit dfdbdf2aa4d274291ae13ed27ad92568226eaf1c[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 12:02:21 2019 +0800
+
+    branch最新的分支
+
+[33mcommit eb86cb09c15bb2756d311fe2f32db6f189e4d14c[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 12:00:42 2019 +0800
+
+    1
+
+[33mcommit 3d5f197f3701535b07353cfb800f5d5a9c0f79d9[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:53:52 2019 +0800
+
+    sasasa
+
+[33mcommit d99ac52017f400c51872bf103bc50b36cba9070c[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:42:21 2019 +0800
+
+    5
+
+[33mcommit 5648ff76f0161046b8ec4ba1fb433c0f78c400f5[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:42:14 2019 +0800
+
+    4
+
+[33mcommit 76e767279bc0ef491d46d34a8c7232eb512f1475[m
+Merge: 1879f7c 61a3b2a
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:35:30 2019 +0800
+
+    Merge branch 'master' into center
+
+[33mcommit 1879f7c589b120051e891e15ad72489ea0fbcacd[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:34:59 2019 +0800
+
+    3
+
+[33mcommit fa6e4d446b77add4f8b4f1159e9353c42b254066[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:34:54 2019 +0800
+
+    2
+
+[33mcommit 13b679ab589ee5c9f7dc45057c80addceb91822d[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:34:48 2019 +0800
+
+    1
+
+[33mcommit 61a3b2afbc5edc0c17134a26dafe868e12552517[m
+Merge: d91d4fc ebba147
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:33:47 2019 +0800
+
+    Merge branch 'center'
+
+[33mcommit d91d4fc402e7bce2f1fe45a9050cffd30c8f1650[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:08:35 2019 +0800
+
+    只是在本地做了修改
+
+[33mcommit e61d67ba78830fe37cce789b4fbad386d56b42a8[m
+Author: yunian <subaoing@163.com>
+Date:   Sat Oct 19 11:07:47 2019 +0800
+
+    Update vue.config.js
+
+[33mcommit f67ec8819d3ddf4a6f7dc4d37604fd428cd8c553[m
+Merge: 571916a 3ec14a6
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:06:55 2019 +0800
+
+    本地和git已经合并了
+
+[33mcommit 571916aa953460e824d34e6a117d6a56261fcdb3[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:05:50 2019 +0800
+
+    第一步本地代码commit一下
+
+[33mcommit 3ec14a62b95380f6083301e3620fde2234b83c23[m
+Author: yunian <subaoing@163.com>
+Date:   Sat Oct 19 11:04:27 2019 +0800
+
+    Update vue.config.js
+
+[33mcommit 140a831b1d3c1a40aa1db5d75e53c09e5b496221[m
+Merge: 65d04f5 38f47cf
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:03:40 2019 +0800
+
+    11111
+
+[33mcommit 65d04f5ed5137c2bafb74fce5b4dfa912b492f16[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 11:01:55 2019 +0800
+
+    1111
+
+[33mcommit 38f47cfafe688cd872c526e99fd7876f81a24011[m
+Author: yunian <subaoing@163.com>
+Date:   Sat Oct 19 10:59:06 2019 +0800
+
+    Update vue.config.js
+
+[33mcommit 39cd46f83c67820a04f9cdd3a0419eca54b0a53a[m
+Author: yunian <subaoing@163.com>
+Date:   Sat Oct 19 10:57:37 2019 +0800
+
+    Update vue.config.js
+
+[33mcommit dd4c70ad0f4fd26ca1b9a1772a6b3006f8f0c4a1[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 10:56:20 2019 +0800
+
+    master上的修改了
+
+[33mcommit 698590505dff47e35ba19c9193def861d54ed35e[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 10:47:55 2019 +0800
+
+    master修改 提交
+
+[33mcommit 4ba2bd10bbd5f9b4882b3cde1f0136d27f788120[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 10:40:50 2019 +0800
+
+    wqwqwqwqw
+
+[33mcommit df1dab83943cf9c8deb9407258cd7dae2db2ddc1[m
+Author: wzh <512105256@qq.com>
+Date:   Sat Oct 19 10:36:59 2019 +0800
+
+    center
+
+[33mcommit fd8b1bec86185951f1625f73b094808b0281be13[m
+Author: WangJing <subaoing@163.com>
+Date:   Sat Sep 14 21:02:53 2019 +0800
+
+    初始化首页
+
+[33mcommit f2b745a81d140df242f1b2af7cc2f31a121fc02b[m
+Author: WangJing <subaoing@163.com>
+Date:   Thu Sep 12 08:22:35 2019 +0800
+
+    登录
+
+[33mcommit ebba147fbc5d9ef9c09014456cc1612cd57b0ccb[m
+Author: WangJing <subaoing@163.com>
+Date:   Wed Sep 11 08:42:30 2019 +0800
+
+    提交到center分支
+
+[33mcommit 077607b6dfef31a64265f13d8a37a6e295a22634[m
+Merge: c1749b7 069968b
+Author: WangJing <subaoing@163.com>
+Date:   Wed Sep 11 08:33:38 2019 +0800
+
+    Merge branch 'master' of github.com:wj00wj/vue-element
+
+[33mcommit c1749b7d13410f65933ff4205102778ef3fa98e0[m
+Author: WangJing <subaoing@163.com>
+Date:   Wed Sep 11 08:29:03 2019 +0800
+
+    开发环境baseurl
+
+[33mcommit 069968b95ae50e1e115ebf68ecdc437cbb009c39[m
+Author: WangJing <subaoing@163.com>
+Date:   Tue Sep 10 21:10:57 2019 +0800
+
+    再次
+
+[33mcommit 8f5388e1b4e7ee098a7c51417d7966d6d9ba7b41[m
+Author: WangJing <subaoing@163.com>
+Date:   Tue Sep 10 21:00:11 2019 +0800
+
+    vscode提交
+
+[33mcommit 446c8ac32637ce72fd549df647b870b019f58373[m
+Author: WangJing <subaoing@163.com>
+Date:   Tue Sep 10 20:57:40 2019 +0800
+
+    main方法测试
+
+[33mcommit 44c594b9927c2e3c609cdddee6cb9305a3012559[m
+Author: WangJing <subaoing@163.com>
+Date:   Sat Sep 7 09:29:43 2019 +0800
+
+    init
