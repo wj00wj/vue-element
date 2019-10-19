@@ -2,18 +2,12 @@
 // const port = 7070;
 // const title = 'vue-admin-webapp'
 
-//主分支:master
 //分支一：center
-
 
 // function resolve(dir){
 //     //拼接当前文件所在目录和dir
 //     return path.join(__dirname,dir)
 // }
-<<<<<<< HEAD
-
-=======
->>>>>>> center
 // module.exports = {
 //     devServer:{
 //         port:port
