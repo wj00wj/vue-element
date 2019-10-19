@@ -2,11 +2,6 @@
 // const port = 7070;
 // const title = 'vue-admin-webapp'
 
-//master上修改--------
-//上修改------
-//-------g
-//只是在git上做了修改
-//只是在本地做了修改
 
 // function resolve(dir){
 //     //拼接当前文件所在目录和dir
