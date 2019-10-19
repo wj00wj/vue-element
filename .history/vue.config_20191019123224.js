@@ -7,10 +7,6 @@
 //主只要合并到center中
 //
 
-//
-
-//
-
 
 // function resolve(dir){
 //     //拼接当前文件所在目录和dir
