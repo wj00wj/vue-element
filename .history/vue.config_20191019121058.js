@@ -10,6 +10,10 @@
 //     //拼接当前文件所在目录和dir
 //     return path.join(__dirname,dir)
 // }
+<<<<<<< HEAD
+
+=======
+>>>>>>> center
 // module.exports = {
 //     devServer:{
 //         port:port
